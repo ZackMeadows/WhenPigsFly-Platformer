@@ -1,0 +1,180 @@
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.exe
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.exe
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.csprojResolveAssemblyReference.cache
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\regularFont.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\hilightFont.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Items\Speeder.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Items\togocup.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\About.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\helpImage.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Player\sheet.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\block.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\stone_block.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\dirt_tile.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\stone_bricks.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\buildings_1.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\buildings_2.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\star_parallax.xnb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.exe
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.pdb
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.csprojResolveAssemblyReference.cache
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.exe
+C:\Users\Aiko\Desktop\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\player.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\test.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\player.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\test.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.exe
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.pdb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.csprojResolveAssemblyReference.cache
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.exe
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.pdb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\regularFont.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\hilightFont.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Items\Speeder.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Items\togocup.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\About.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\helpImage.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\block.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\stone_block.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\dirt_tile.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\stone_bricks.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\buildings_1.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\buildings_2.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\star_parallax.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\player.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\test.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w2.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w3.xnb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.exe
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.pdb
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.csprojResolveAssemblyReference.cache
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.exe
+F:\Game Project - Copy\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\far_mountains.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\sky.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds1.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds2.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\stone_block.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\stone_bricks.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\dirt_grass.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\castle_block.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1_bkg.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\goblin.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\hills.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\stone_block.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\stone_bricks.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\dirt_grass.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\far_mountains.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\sky.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds1.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds2.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\castle_block.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1_bkg.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\goblin.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\hills.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\SmallPixelFont.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\TitleBar.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF1.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF2.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF3.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF4.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Alert.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\LargePixelFont.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\MediumPixelFont.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuMountains.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.wma
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\player.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\test.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\dirt_grass.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\far_mountains.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\sky.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds1.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds2.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\castle_block.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1_bkg.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\goblin.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\hills.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\TitleBar.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF1.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF2.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF3.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF4.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Alert.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuMountains.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.wma
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.exe
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\WhenPigsFly.pdb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.csprojResolveAssemblyReference.cache
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.exe
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\WhenPigsFly.pdb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\TitleBar.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF1.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF2.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF3.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF4.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Alert.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuMountains.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.wma
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\option_active.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\option_inactive.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\option_active.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\option_inactive.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\Pigsfont.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Confused.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\plain_attack.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\Pigsfont.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Confused.xnb
+E:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\plain_attack.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Animations\particle.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Animations\death.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\test.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\test_bkg.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\dagger.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\healthbar.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\healthbarcontainer.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\StatBar.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\focusbar.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\healthbar.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\dark_overlay.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\About_image.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Controls_image.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\go_back.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Credits_image.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\AurafluxLogo.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\white_overlay.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Death_Screen.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Death_Screen_Continue.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Overworld.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Death.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Hit.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Jump.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Overflow.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Revive.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Select.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Throw.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Item.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Wall_Jump.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\ALERT.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\CONFUSED.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Overworld.wma
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\arcane_bolt.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\arcane_bolt.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\No_Focus.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\arcane_active.xnb
+G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\basic_active.xnb

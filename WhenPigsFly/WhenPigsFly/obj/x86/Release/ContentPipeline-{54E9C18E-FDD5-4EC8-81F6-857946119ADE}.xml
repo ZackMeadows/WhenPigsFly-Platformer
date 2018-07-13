@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Worlds\w1.png</Source>
+      <Name>Images\Worlds\w1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1.xnb</Output>
+      <Time>2015-12-13T21:04:14.5670529-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\player.png</Source>
+      <Name>Images\Sprites\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\player.xnb</Output>
+      <Time>2015-12-13T02:11:53.8725071-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\test.png</Source>
+      <Name>Images\Sprites\test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\test.xnb</Output>
+      <Time>2015-12-02T02:46:38.030697-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\Tiles\dirt_grass.png</Source>
+      <Name>Images\Objects\Tiles\dirt_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\dirt_grass.xnb</Output>
+      <Time>2015-12-06T02:38:53.2549639-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Parallax\far_mountains.png</Source>
+      <Name>Images\Parallax\far_mountains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\far_mountains.xnb</Output>
+      <Time>2015-12-05T19:52:11.4878436-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Parallax\sky.png</Source>
+      <Name>Images\Parallax\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\sky.xnb</Output>
+      <Time>2015-12-05T19:51:41.7148252-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Parallax\clouds1.png</Source>
+      <Name>Images\Parallax\clouds1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds1.xnb</Output>
+      <Time>2015-12-05T21:04:45.2009967-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Parallax\clouds2.png</Source>
+      <Name>Images\Parallax\clouds2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\clouds2.xnb</Output>
+      <Time>2015-12-05T21:12:10.307513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\Tiles\castle_block.png</Source>
+      <Name>Images\Objects\Tiles\castle_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Objects\Tiles\castle_block.xnb</Output>
+      <Time>2015-12-07T14:13:14.1384705-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Worlds\w1_bkg.png</Source>
+      <Name>Images\Worlds\w1_bkg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\w1_bkg.xnb</Output>
+      <Time>2015-12-13T21:04:12.7037829-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\goblin.png</Source>
+      <Name>Images\Sprites\goblin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Sprites\goblin.xnb</Output>
+      <Time>2015-12-10T01:40:07.6445654-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Parallax\hills.png</Source>
+      <Name>Images\Parallax\hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Parallax\hills.xnb</Output>
+      <Time>2015-12-07T13:58:15.4629899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\TitleBar.png</Source>
+      <Name>Images\Interface\TitleBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\TitleBar.xnb</Output>
+      <Time>2015-12-07T21:56:40.4634931-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\MenuSceneF1.png</Source>
+      <Name>Images\Interface\MenuSceneF1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF1.xnb</Output>
+      <Time>2015-12-12T21:26:30.4396274-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\MenuSceneF2.png</Source>
+      <Name>Images\Interface\MenuSceneF2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF2.xnb</Output>
+      <Time>2015-12-12T21:26:36.8329227-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\MenuSceneF3.png</Source>
+      <Name>Images\Interface\MenuSceneF3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF3.xnb</Output>
+      <Time>2015-12-12T21:26:35.3549094-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\MenuSceneF4.png</Source>
+      <Name>Images\Interface\MenuSceneF4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuSceneF4.xnb</Output>
+      <Time>2015-12-12T21:26:34.0663784-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Emotes\Alert.png</Source>
+      <Name>Images\Effects\Emotes\Alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Alert.xnb</Output>
+      <Time>2015-12-10T13:20:16.8709528-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\MenuMountains.png</Source>
+      <Name>Images\Interface\MenuMountains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\MenuMountains.xnb</Output>
+      <Time>2015-12-08T04:18:04.0441868-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\option_active.png</Source>
+      <Name>Images\Interface\option_active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\option_active.xnb</Output>
+      <Time>2015-12-09T17:54:40.6473733-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\option_inactive.png</Source>
+      <Name>Images\Interface\option_inactive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\option_inactive.xnb</Output>
+      <Time>2015-12-09T17:52:46.6567207-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pigsfont.png</Source>
+      <Name>Fonts\Pigsfont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Fonts\Pigsfont.xnb</Output>
+      <Time>2015-12-09T17:42:41.4664013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Emotes\Confused.png</Source>
+      <Name>Images\Effects\Emotes\Confused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\Confused.xnb</Output>
+      <Time>2015-12-10T13:22:13.5770571-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Projectiles\plain_attack.png</Source>
+      <Name>Images\Effects\Projectiles\plain_attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\plain_attack.xnb</Output>
+      <Time>2015-12-11T14:49:44.2161361-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\Menu.mp3</Source>
+      <Name>Audio\Music\Menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.xnb</Output>
+      <Extra>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Menu.wma</Extra>
+      <Time>2015-12-08T04:33:15.6513065-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Animations\particle.png</Source>
+      <Name>Images\Effects\Animations\particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Animations\particle.xnb</Output>
+      <Time>2015-12-11T17:45:50.9850403-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Animations\death.png</Source>
+      <Name>Images\Effects\Animations\death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Animations\death.xnb</Output>
+      <Time>2015-12-11T22:21:14.561828-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Worlds\test.png</Source>
+      <Name>Images\Worlds\test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\test.xnb</Output>
+      <Time>2015-12-11T14:10:26.312546-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Worlds\test_bkg.png</Source>
+      <Name>Images\Worlds\test_bkg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Worlds\test_bkg.xnb</Output>
+      <Time>2015-12-07T12:48:00.9944462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Projectiles\dagger.png</Source>
+      <Name>Images\Effects\Projectiles\dagger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\dagger.xnb</Output>
+      <Time>2015-12-12T22:58:55.5647835-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Emotes\healthbar.png</Source>
+      <Name>Images\Effects\Emotes\healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\healthbar.xnb</Output>
+      <Time>2015-12-13T01:11:20.0761399-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Emotes\healthbarcontainer.png</Source>
+      <Name>Images\Effects\Emotes\healthbarcontainer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Emotes\healthbarcontainer.xnb</Output>
+      <Time>2015-12-13T22:21:21.6794967-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\StatBar.png</Source>
+      <Name>Images\Interface\StatBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\StatBar.xnb</Output>
+      <Time>2015-12-13T21:10:29.5853713-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\focusbar.png</Source>
+      <Name>Images\Interface\focusbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\focusbar.xnb</Output>
+      <Time>2015-12-13T03:08:15.2331517-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\healthbar.png</Source>
+      <Name>Images\Interface\healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\healthbar.xnb</Output>
+      <Time>2015-12-13T03:05:57.0950826-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\dark_overlay.png</Source>
+      <Name>Images\Interface\dark_overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\dark_overlay.xnb</Output>
+      <Time>2015-12-13T14:06:05.2694024-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\About_image.png</Source>
+      <Name>Images\Interface\About_image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\About_image.xnb</Output>
+      <Time>2015-12-13T14:28:37.596695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\Controls_image.png</Source>
+      <Name>Images\Interface\Controls_image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Controls_image.xnb</Output>
+      <Time>2015-12-13T22:20:00.7432822-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\go_back.png</Source>
+      <Name>Images\Interface\go_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\go_back.xnb</Output>
+      <Time>2015-12-13T16:10:17.3498511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\Credits_image.png</Source>
+      <Name>Images\Interface\Credits_image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Credits_image.xnb</Output>
+      <Time>2015-12-13T16:38:18.4791488-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\AurafluxLogo.png</Source>
+      <Name>Images\Interface\AurafluxLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\AurafluxLogo.xnb</Output>
+      <Time>2015-12-13T16:34:24.6344006-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\white_overlay.png</Source>
+      <Name>Images\Interface\white_overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\white_overlay.xnb</Output>
+      <Time>2015-12-13T16:46:18.1386806-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\Death_Screen.png</Source>
+      <Name>Images\Interface\Death_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Death_Screen.xnb</Output>
+      <Time>2015-12-13T18:08:34.7720462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\Death_Screen_Continue.png</Source>
+      <Name>Images\Interface\Death_Screen_Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\Death_Screen_Continue.xnb</Output>
+      <Time>2015-12-13T18:12:29.5417682-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\Overworld.mp3</Source>
+      <Name>Audio\Music\Overworld</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Overworld.xnb</Output>
+      <Extra>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\Music\Overworld.wma</Extra>
+      <Time>2015-12-13T19:54:31.5806481-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Death.wav</Source>
+      <Name>Audio\SFX\Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Death.xnb</Output>
+      <Time>2015-12-13T19:18:59.8484676-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Hit.wav</Source>
+      <Name>Audio\SFX\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Hit.xnb</Output>
+      <Time>2015-05-13T12:18:08.2701339-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Jump.wav</Source>
+      <Name>Audio\SFX\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Jump.xnb</Output>
+      <Time>2015-05-13T12:18:06.8400521-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Overflow.wav</Source>
+      <Name>Audio\SFX\Overflow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Overflow.xnb</Output>
+      <Time>2015-05-13T12:18:03.1128389-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Revive.wav</Source>
+      <Name>Audio\SFX\Revive</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Revive.xnb</Output>
+      <Time>2015-05-13T12:18:00.2716764-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Select.wav</Source>
+      <Name>Audio\SFX\Select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Select.xnb</Output>
+      <Time>2015-05-13T12:18:06.9880606-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Throw.wav</Source>
+      <Name>Audio\SFX\Throw</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Throw.xnb</Output>
+      <Time>2015-05-13T12:18:06.3990269-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Item.wav</Source>
+      <Name>Audio\SFX\Item</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Item.xnb</Output>
+      <Time>2015-05-13T12:17:38.6944422-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\Wall_Jump.wav</Source>
+      <Name>Audio\SFX\Wall_Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\Wall_Jump.xnb</Output>
+      <Time>2015-05-13T12:17:53.1632698-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\ALERT.wav</Source>
+      <Name>Audio\SFX\ALERT</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\ALERT.xnb</Output>
+      <Time>2015-05-13T12:17:54.2413315-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\CONFUSED.wav</Source>
+      <Name>Audio\SFX\CONFUSED</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\CONFUSED.xnb</Output>
+      <Time>2015-05-13T12:18:13.2234172-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Effects\Projectiles\arcane_bolt.png</Source>
+      <Name>Images\Effects\Projectiles\arcane_bolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Effects\Projectiles\arcane_bolt.xnb</Output>
+      <Time>2015-12-13T21:15:28.1444394-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\arcane_bolt.wav</Source>
+      <Name>Audio\SFX\arcane_bolt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\arcane_bolt.xnb</Output>
+      <Time>2015-05-13T12:17:13.3349918-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SFX\No_Focus.wav</Source>
+      <Name>Audio\SFX\No_Focus</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Audio\SFX\No_Focus.xnb</Output>
+      <Time>2015-05-13T12:17:12.989972-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\arcane_active.png</Source>
+      <Name>Images\Interface\arcane_active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\arcane_active.xnb</Output>
+      <Time>2015-12-13T22:14:13.3179783-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\basic_active.png</Source>
+      <Name>Images\Interface\basic_active</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\Images\Interface\basic_active.xnb</Output>
+      <Time>2015-12-13T22:13:37.9029147-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{54E9C18E-FDD5-4EC8-81F6-857946119ADE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>G:\Game Project\WhenPigsFly\WhenPigsFly\Assets\</RootDirectory>
+      <LoggerRootDirectory>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>G:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-27T21:05:29.9871531-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

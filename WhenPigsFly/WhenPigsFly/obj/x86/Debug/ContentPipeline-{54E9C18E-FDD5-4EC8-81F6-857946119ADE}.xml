@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\regularFont.spritefont</Source>
+      <Name>Fonts\regularFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Fonts\regularFont.xnb</Output>
+      <Time>2015-11-05T16:22:32.5785482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hilightFont.spritefont</Source>
+      <Name>Fonts\hilightFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Fonts\hilightFont.xnb</Output>
+      <Time>2015-11-05T16:22:28.2345482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Speeder.png</Source>
+      <Name>Images\Items\Speeder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Items\Speeder.xnb</Output>
+      <Time>2015-07-01T14:10:24.8455655-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\togocup.png</Source>
+      <Name>Images\Items\togocup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Items\togocup.xnb</Output>
+      <Time>2015-09-22T00:10:25.4960239-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\About.png</Source>
+      <Name>Images\Interface\About</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Interface\About.xnb</Output>
+      <Time>2015-11-05T16:55:29.10694-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\Bat.png</Source>
+      <Name>Images\Interface\Bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Interface\Bat.xnb</Output>
+      <Time>2015-11-05T17:10:21.5127297-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Interface\helpImage.png</Source>
+      <Name>Images\Interface\helpImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Interface\helpImage.xnb</Output>
+      <Time>2015-11-05T16:55:29.12994-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player\sheet.png</Source>
+      <Name>Images\Player\sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Player\sheet.xnb</Output>
+      <Time>2015-11-28T02:38:07.2844473-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Worlds\w1.png</Source>
+      <Name>Images\Worlds\w1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Worlds\w1.xnb</Output>
+      <Time>2015-11-29T20:28:19.0380506-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\block.png</Source>
+      <Name>Images\Objects\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Objects\block.xnb</Output>
+      <Time>2015-11-28T13:42:21.4593969-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{54E9C18E-FDD5-4EC8-81F6-857946119ADE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Game Project\WhenPigsFly\WhenPigsFly\Assets\</RootDirectory>
+      <LoggerRootDirectory>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-27T21:05:29.9871531-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

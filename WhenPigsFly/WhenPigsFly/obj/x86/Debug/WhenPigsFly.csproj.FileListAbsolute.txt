@@ -1,0 +1,22 @@
+F:\Game Project BETA\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\AllInOne.exe
+F:\Game Project BETA\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\AllInOne.pdb
+F:\Game Project BETA\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\WhenPigsFly.csprojResolveAssemblyReference.cache
+F:\Game Project BETA\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Project BETA\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\AllInOne.exe
+F:\Game Project BETA\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\AllInOne.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\WhenPigsFly.exe
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\WhenPigsFly.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\WhenPigsFly.exe
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\WhenPigsFly.pdb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\obj\x86\Debug\WhenPigsFly.csprojResolveAssemblyReference.cache
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Fonts\regularFont.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Items\Speeder.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Items\togocup.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Interface\About.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Interface\Bat.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Interface\helpImage.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Player\sheet.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Worlds\w1.xnb
+F:\Game Project\WhenPigsFly\WhenPigsFly\WhenPigsFly\bin\x86\Debug\Content\Images\Objects\block.xnb
